@@ -107,6 +107,18 @@ $ Digite seu comando aqui
 * Dev Front-end - Nome
 * Dev Back-end - Nome
  
+
+ 
 ## Atualizado em
 
 > Última atualização: xx/xx/xxxx
+
+## Criado por
+
+* Luciana Merege
+* Mileny Loyolla
+* Nayara Gomes
+
+##Última atualização
+
+> 23/03/2021
