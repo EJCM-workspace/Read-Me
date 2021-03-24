@@ -1,5 +1,5 @@
 # Título do Projeto | EJCM
-*Esse é o modelo de ReadMe para os projetos da EJ, feito com a finalidade de padronizar a documentação técnica da empresa. Em cada tópico você verá uma explicação do que deve ser escrito e você deverá personalizar os tópicos de acordo com o seu projeto. Recomendamos que o ReadMe seja criado junto com o repositório e atualizado, no mínimo, ao final de cada lote.*
+*Esse é o modelo de ReadMe para os projetos da EJ, feito com a finalidade de padronizar a documentação técnica da empresa. Em cada tópico você verá uma explicação do que deve ser escrito e você deverá personalizar os tópicos de acordo com o seu projeto.*
 
 *Se tiver dúvidas sobre a sintaxe do Markdown, pode ver esse link: https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#sintaxe-do-markdown.*
  
@@ -112,6 +112,9 @@ $ Digite seu comando aqui
 ## Atualizado em
 
 > Última atualização: xx/xx/xxxx
+
+*Aqui acaba o modelo do ReadMe. Recomendamos que ele seja criado junto com o repositório e atualizado, no mínimo, ao final de cada lote.*
+
 
 ## Criado por
 
