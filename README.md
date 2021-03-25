@@ -34,7 +34,6 @@ Aqui você deve por uma breve descrição sobre o projeto e sua finalidade.
  5. [Testes](#testes)
  6. [Arquitetura](#arquitetura)
  7. [Autores](#autores)
- 8. [Atualizado em](#atualizado-em)
  
 ## Tecnologias utilizadas
 
@@ -108,20 +107,9 @@ $ Digite seu comando aqui
 * Dev Back-end - Nome
  
 
- 
-## Atualizado em
-
 > Última atualização: xx/xx/xxxx
 
-*Aqui acaba o modelo do ReadMe. Recomendamos que ele seja criado junto com o repositório e atualizado, no mínimo, ao final de cada lote.*
 
 
-## Criado por
 
-* Luciana Merege
-* Mileny Loyolla
-* Nayara Gomes
-
-## Última atualização
-
-> 23/03/2021
+*Aqui acaba o modelo do ReadMe. Recomendamos que ele seja criado junto com o repositório e atualizado, no mínimo, ao final de cada lote. Criado por Luciana Merege, Mileny Loyolla e Nayara Gomes, e atualizado em 25/03/2021*
