@@ -5,7 +5,7 @@
  
 *Se tiver dúvidas sobre as badges, pode ver esses links: [Repositórios com Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#-streaming-) • [Como customizar badges](https://shields.io/)*
 
-*Se quiser ver um exemplo de read me completo pode ver esses links: link do shrlocke, link do cenabio*
+*Se quiser ver um exemplo de read me completo pode ver esses links: [Shrlocke](https://gitlab.com/ejcm/Shrlocke/-/blob/master/README.md), [Cenabio](https://gitlab.com/ejcm/cenabio/-/blob/master/README.md) e [Anthrakos](https://gitlab.com/ejcm/anthrakos/-/tree/master/README.md)*
 
 Aqui você deve por uma breve descrição sobre o projeto e sua finalidade.
  
@@ -94,12 +94,14 @@ $ Digite seu comando aqui
 
 ## Autores
 
+> Período: (1° Lote/ 2° Lote/ 3° Lote/ Suporte)
 * Gerente - Nome
 * Tech Lead - Nome
 * Dev Front-end - Nome
 * Dev Front-end - Nome  
 * Dev Back-end - Nome  
 &nbsp;
+> Período: (1° Lote/ 2° Lote/ 3° Lote/ Suporte)
 * Gerente - Nome
 * Tech Lead - Nome
 * Dev Front-end - Nome
@@ -107,7 +109,7 @@ $ Digite seu comando aqui
 * Dev Back-end - Nome
  
 
-> Última atualização: xx/xx/xxxx
+## Última atualização: xx/xx/xxxx
 
 
 
