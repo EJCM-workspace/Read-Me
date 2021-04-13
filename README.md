@@ -114,4 +114,4 @@ $ Digite seu comando aqui
 
 
 
-*Aqui acaba o modelo do ReadMe. Recomendamos que ele seja criado junto com o repositório e atualizado, no mínimo, ao final de cada lote. Criado por Luciana Merege, Mileny Loyolla e Nayara Gomes, e atualizado em 25/03/2021*
+*Aqui acaba o modelo do ReadMe. Recomendamos que ele seja criado junto com o repositório e atualizado, no mínimo, ao final de cada lote. Criado por Luciana Merege, Mileny Loyolla e Nayara Gomes, e atualizado em 12/04/2021*
